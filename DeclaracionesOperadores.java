@@ -9,10 +9,5 @@ public class DeclaracionesOperadores {
 		System.out.println(c);
 		int resultado=b/a; //esto no va a dar decimal sino redondea a un entero
 		System.out.println(resultado);
-		int i=0;
-	
-        while(i++<10){
-
-        if (++i%3!=0) continue;                System.out.print (" El numero es "+i);                }
 	}
 }
